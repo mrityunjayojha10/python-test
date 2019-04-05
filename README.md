@@ -1,6 +1,6 @@
 Run stock_price.py to train the model
 Run predict_price.py to get next day prediction.
-Provide the stock symbol from command line, exampple - predict_price.py INFY, stock_price.py INFY
+Provide the stock symbol from command line, example - predict_price.py INFY, stock_price.py INFY
 
 Part 1:
 1. Create 4,16,....,52 week moving average(closing price) for each stock and index. This should happen through a function.
